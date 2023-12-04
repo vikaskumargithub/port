@@ -1,0 +1,36 @@
+@import url(1main.css);
+
+#nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+    background-color: mediumpurple;
+    background-image: url(https://mobirise.com/extensions/marketm4/sweet_bakery/assets/images/sweet-bakery-180x180.png);
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    height: 100px;
+    width: 100%;
+    cursor: progress;
+}
+#product{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 30px;
+    background-color: palevioletred;
+    color: white;
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+    text-shadow: 100px 32px 4px white;
+}
+i{
+    font-size: 15px;
+    position: relative;
+    background-position-x: 10%;
+}

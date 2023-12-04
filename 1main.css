@@ -1,0 +1,15 @@
+@import url(1gridimg.css);
+span{
+    color: white;
+    text-align: center;
+    text-shadow: 5px 1px 3px mediumpurple;
+    font-size: 60px;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+    margin: 70px 300px 70px 300px;
+    border-radius: 100px 100px 100px 100px;
+}
